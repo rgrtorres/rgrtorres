@@ -19,8 +19,6 @@
  
 
 ## About me
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rgrtorres](https://github.com/rgrtorres)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rgrtorres/)]( https://www.linkedin.com/in/rgrtorres/)
 
 
