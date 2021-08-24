@@ -1,4 +1,6 @@
-# Welcome!
+[![rgrtorres GitHub stats](https://github-readme-stats.vercel.app/api?username=rgrtorres)](https://github.com/rgrtorres/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgrtorres&layout=compact)](https://github.com/rgrtorres/github-readme-stats)
 
  
 
@@ -20,10 +22,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rgrtorres](https://github.com/rgrtorres)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rgrtorres/)]( https://www.linkedin.com/in/rgrtorres/)
-
-[![rgrtorres GitHub stats](https://github-readme-stats.vercel.app/api?username=rgrtorres)](https://github.com/rgrtorres/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rgrtorres&layout=compact)](https://github.com/rgrtorres/github-readme-stats)
 
 
 <code><img height= "20"src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
